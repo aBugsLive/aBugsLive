@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aBugsLive
-- 👀 I do commissions for minecraft plugins
+- 👀 I do things sometimes
 - 🌱 I stream on twitch @aBugsLive
-- 📫 How to reach me aBugsLive on discord
+- 📫 aBugsLive on most socials
 
 <!---
 aBugsLive/aBugsLive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
