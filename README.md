@@ -3,7 +3,7 @@
 Developer focused on backend systems, game server development, and applied machine learning.
 
 ## What I do
-- 🎮 Lead developer for a large multiplayer game server community
+- 🎮 Previous Lead developer for a large multiplayer game server community
 - 🛠️ Built 60+ custom gameplay systems in Lua, JavaScript, HTML, and SQL
 - 🐧 Run Linux/Ubuntu infrastructure with Nginx, Cloudflare, Grafana, and DataDog
 - 👨‍🏫 Teach programming and robotics to young students
